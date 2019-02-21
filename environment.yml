@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - sklearn
   - scipy
   - matplotlib
   - seaborn
   - pandas
   - statsmodels
+  - sklearn
