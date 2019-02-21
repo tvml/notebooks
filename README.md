@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder at the following URL:
 
-http://beta.mybinder.org/v2/gh/tvml/notebooks_environment/master?filepath=index.ipynb
+http://beta.mybinder.org/v2/gh/tvml/notebooks/master?filepath=index.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
